@@ -1,0 +1,63 @@
+python-learning/
+├── 01_basics/ (created)
+│   ├── 01_print.py
+│   ├── 02_variables.py
+│   ├── 03_input.py
+│   ├── 04_data_types.py
+│   ├── 05_type_conversion.py
+│
+├── 02_control_flow/
+│   ├── 01_if.py
+│   ├── 02_if_else.py
+│   ├── 03_if_elif_else.py
+│   ├── 04_comparison_operators.py
+│   ├── 05_logical_operators.py
+│
+├── 03_data_structures/
+│   ├── 01_lists.py
+│   ├── 02_tuples.py
+│   ├── 03_sets.py
+│   ├── 04_dictionaries.py
+│
+├── 04_functions/
+│   ├── 01_basic_functions.py
+│   ├── 02_parameters.py
+│   ├── 03_return_values.py
+│   ├── 04_scope.py
+│
+├── 05_modules_packages/
+│   ├── 01_imports.py
+│   ├── 02_from_import.py
+│   ├── 03_custom_module.py
+│
+├── 06_files_io/
+│   ├── 01_open_file.py
+│   ├── 02_read_file.py
+│   ├── 03_write_file.py
+│   ├── 04_append_file.py
+│
+├── 07_error_handling/
+│   ├── 01_try_except.py
+│   ├── 02_multiple_exceptions.py
+│   ├── 03_finally.py
+│
+├── 08_oop/
+│   ├── 01_classes.py
+│   ├── 02_objects_methods.py
+│   ├── 03_constructor_init.py
+│   ├── 04_inheritance.py
+│
+├── 09_standard_library/
+│   ├── 01_math.py
+│   ├── 02_random.py
+│   ├── 03_datetime.py
+│
+├── 10_projects/
+│   ├── 01_calculator/
+│   │   └── main.py
+│   ├── 02_number_guess/
+│   │   └── main.py
+│   ├── 03_todo_cli/
+│   │   └── main.py
+│
+└── README.md
